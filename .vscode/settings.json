@@ -1,0 +1,3 @@
+{
+  "reason_language_server.lispRefmt": "./node_modules/reason-lisp/lib/bs/native/lisp.native"
+}

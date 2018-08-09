@@ -1,0 +1,5 @@
+.merlin
+lib
+node_modules
+*.ml
+*.bs.js

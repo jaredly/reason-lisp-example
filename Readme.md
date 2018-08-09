@@ -1,6 +1,6 @@
 # reason-lisp-example
 
-![Screenshot of lisp code](screenshot.png)
+<img rel="Screenshot of lisp code" src="screenshot.png" width=400/>
 
 ## How to use?
 
@@ -10,7 +10,6 @@
 
 Go to town!
 
-For a specification of the lisp syntax, check out https://github.com/jaredly/myntax/blob/master/docs/LispGrammar.md.
+For the IDE goodness, grab the [latest release](https://github.com/jaredly/reason-language-server/releases/tag/1.0.0-beta.6-1-2) of the reason-language-server vscode plugin
 
-
-
+For a specification of the syntax, check out https://github.com/jaredly/myntax/blob/master/docs/LispGrammar.md.
